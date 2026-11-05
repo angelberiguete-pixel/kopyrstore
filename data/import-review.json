@@ -1,0 +1,46 @@
+[
+  {
+    "sku": "MUJ-001",
+    "name": "Blusa PRIMARK lila",
+    "category": "Mujer",
+    "suggestedPriceDop": 150,
+    "quantityRecorded": 1,
+    "priceApproved": false,
+    "stockConfirmed": false,
+    "imageDriveId": "1ycprp20rMPiowMfE41oFgo3w9FzAXQ7S",
+    "publish": false
+  },
+  {
+    "sku": "MUJ-002",
+    "name": "Chaleco No Boundaries cuadros azul/negro",
+    "category": "Mujer",
+    "suggestedPriceDop": 100,
+    "quantityRecorded": 1,
+    "priceApproved": false,
+    "stockConfirmed": false,
+    "imageDriveId": "1intOFdcedvmic1IqEBdVQcXXU8mCZNG3",
+    "publish": false
+  },
+  {
+    "sku": "MUJ-003",
+    "name": "Sudadera Jenni lazy day",
+    "category": "Mujer",
+    "suggestedPriceDop": 200,
+    "quantityRecorded": 1,
+    "priceApproved": false,
+    "stockConfirmed": false,
+    "imageDriveId": "1QXQNIbU3UfQ0NeXhAwEuGsFqETFFeZpH",
+    "publish": false
+  },
+  {
+    "sku": "MUJ-005",
+    "name": "Chaqueta fleece rosa",
+    "category": "Mujer",
+    "suggestedPriceDop": 200,
+    "quantityRecorded": 1,
+    "priceApproved": false,
+    "stockConfirmed": false,
+    "imageDriveId": "1ve9D0T7MZ9E9aXYywEmq54cRUs9_Resu",
+    "publish": false
+  }
+]
